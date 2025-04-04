@@ -4,7 +4,7 @@ CinnamorollDream is a cozy, pastel-themed RuneLite resource pack inspired by the
 As mentioned, this is my first upload of the pack, and it’s just the beginning! I’ll be updating and tweaking things over time as I learn more and continue to refine the theme. Thank you for checking it out and being part of this cozy little project! 💫
 
 
-This pack is only for resizeable mode as of now. This includes Cinna themed:
+This pack is only both resizeable and fixed mode. This includes Cinna themed:
 - Welcome screen
 - Chatbox
 - Minimap
@@ -25,8 +25,9 @@ This pack is only for resizeable mode as of now. This includes Cinna themed:
 ![image](https://github.com/user-attachments/assets/01b9ef3e-b6fa-4a3e-87c3-8429ca2bfc4f)
 ![image](https://github.com/user-attachments/assets/69ee4fd2-4849-4f05-bdbf-8e69093df757)
 
-# Bank Overlay
-![image](https://github.com/user-attachments/assets/19fb1559-a8d1-4366-bd71-cfc681a7d28a)
+# Fixed Mode
+![image](https://github.com/user-attachments/assets/d2fb16a2-853c-469d-96b8-f3e60c784121)
+
 
 Created all elements using Pixilart, Adobe Illistrator, Krita.
 Last Updated: 4/04/2025
