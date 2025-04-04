@@ -5,10 +5,14 @@ As mentioned, this is my first upload of the pack, and it’s just the beginning
 
 
 This pack is only for resizeable mode as of now. This includes Cinna themed:
+- Welcome screen
 - Chatbox
 - Minimap
 - Inventory & Tab
 - Bank
+
+# Welcome screen
+![image](https://github.com/user-attachments/assets/ae8e96f6-94aa-443a-bcae-a2534d29c353)
 
 # Chatbox
 ![image](https://github.com/user-attachments/assets/a1e939da-624c-4507-8e9c-9e8becebd0ec)
