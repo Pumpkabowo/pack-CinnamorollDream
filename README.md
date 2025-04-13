@@ -23,7 +23,7 @@ This includes Cinna themed:
 
 
 # Skilling & Inv
-![image](https://github.com/user-attachments/assets/01b9ef3e-b6fa-4a3e-87c3-8429ca2bfc4f)
+![image](https://github.com/user-attachments/assets/81cbd3c5-cd8b-4c0d-82a5-68382e34ee49)
 ![image](https://github.com/user-attachments/assets/69ee4fd2-4849-4f05-bdbf-8e69093df757)
 
 # Resizeable Mode
