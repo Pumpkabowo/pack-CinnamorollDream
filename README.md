@@ -11,6 +11,7 @@ This includes Cinna themed:
 - Minimap
 - Inventory & Tab
 - Bank
+- Fixed and Resizeable mode
 
 # Welcome screen
 ![image](https://github.com/user-attachments/assets/ae8e96f6-94aa-443a-bcae-a2534d29c353)
