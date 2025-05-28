@@ -28,6 +28,10 @@ This includes Cinna themed:
 ![image](https://github.com/user-attachments/assets/81cbd3c5-cd8b-4c0d-82a5-68382e34ee49)
 ![image](https://github.com/user-attachments/assets/69ee4fd2-4849-4f05-bdbf-8e69093df757)
 
+# Bank Tab
+![image](https://github.com/user-attachments/assets/a94e519f-6b40-415b-afaa-6120086bb0cf)
+
+
 # Resizeable Mode
 ![image](https://github.com/user-attachments/assets/2c27d4ab-8a20-4cfe-aada-275b3e339e1f)
 
