@@ -28,14 +28,16 @@ This includes Cinna themed:
 ![image](https://github.com/user-attachments/assets/69ee4fd2-4849-4f05-bdbf-8e69093df757)
 
 # Resizeable Mode
-![image](https://github.com/user-attachments/assets/14134c1d-5321-4e83-8b29-84159059af0e)
+![image](https://github.com/user-attachments/assets/2c27d4ab-8a20-4cfe-aada-275b3e339e1f)
+
 
 # Fixed Mode
-![image](https://github.com/user-attachments/assets/a8dd828e-c6bf-4f66-acf8-2e03c18a8dd8)
+![image](https://github.com/user-attachments/assets/19e999ae-728d-493d-ad3a-77594be932e8)
+
 
 
 
 Created all elements using Pixilart, Adobe Illistrator, & Krita.
-Last Updated: 5/11/2025
+Last Updated: 5/28/2025
 
 
