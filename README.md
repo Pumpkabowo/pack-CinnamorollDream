@@ -17,7 +17,8 @@ This includes Cinna themed:
 ![image](https://github.com/user-attachments/assets/ae8e96f6-94aa-443a-bcae-a2534d29c353)
 
 # Chatbox
-![image](https://github.com/user-attachments/assets/a1e939da-624c-4507-8e9c-9e8becebd0ec)
+![image](https://github.com/user-attachments/assets/60f4cda6-1d8c-4ffe-af9a-67e14e7b9948)
+
 
 # Minimap
 ![image](https://github.com/user-attachments/assets/7af911f0-f414-423f-a45f-c9141419ce9d)
