@@ -43,6 +43,6 @@ This includes Cinna themed:
 
 
 Created all elements using Pixilart, Adobe Illistrator, & Krita.
-Last Updated: 7/09/2025
+Last Updated: 7/12/2025
 
 
